@@ -15,7 +15,7 @@ repositories {
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter'
 	implementation 'org.projectlombok:lombok:1.18.30'
-	implementation 'org.xerial:sqlite-jdbc:3.42.0.0'
+	implementation 'org.xerial:sqlite-jdbc:3.43.0.0'
 
 
 	annotationProcessor 'org.projectlombok:lombok:1.18.30'
